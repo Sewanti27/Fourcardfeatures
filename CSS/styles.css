@@ -1,0 +1,82 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: hsl(0, 0%, 98%);
+}
+
+/**Main headings and paragraps*****/
+.heading1{
+  font-weight:200;
+  padding-top:4%;
+}
+.heading2{
+  font-weight:600;
+  line-height:1.5;
+}
+.mainpara{
+  color:hsl(229, 6%, 66%);
+  font-weight:400;
+  padding:5px 25px 5px 30px;
+  margin-bottom:3%;
+}
+.centre{
+  margin:auto;
+  width:50%;
+  text-align:center;
+}
+/***COLUMNSLayout MANAGEMENT*******/
+.container1{
+  margin-top:6%;
+}
+.samecolproperty{
+  padding-top:3.5%;
+  border-top-style:solid;
+  border-top-width:4px;
+  border-radius:10px;
+  width:77%;
+  padding-left:3%;
+  background-color: white;
+}
+/*****Supervisor*****/
+.colorcol1{
+  border-top-color:hsl(180, 62%, 55%);
+  margin-top:30%;
+  margin-left:40%;
+}
+/****Teambuilder****/
+.teambuilder{
+  margin-left:20%;
+}
+.colorcol2{
+  border-top-color:hsl(0, 78%, 62%);
+  margin-top:5%;
+
+}
+/*****Karma*****/
+.colorcol3{
+  border-top-color: hsl(34, 97%, 64%);
+  margin-top:10%;
+
+}
+/****Calculator*****/
+.colorcol4{
+  border-top-color: hsl(212, 86%, 64%);
+  margin-top:30%;
+  margin-left:0;
+}
+/***Writings inside the boxes*****/
+h5{
+  font-weight: 600;
+  color:hsl(234, 12%, 34%);
+}
+
+.colpara{
+  color:hsl(229, 6%, 66%);
+  font-weight:200;
+
+}
+/******Managing Images*****/
+.supervisorimg{
+  margin-top:25%;
+  margin-left:70%;
+  margin-bottom:2%;
+}
